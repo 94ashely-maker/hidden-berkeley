@@ -16,9 +16,15 @@ Create your own public website from this starter, then use a Jupyter notebook to
 GitHub Pages builds the website from `main` and `/docs`. After you push a changed CSV, GitHub rebuilds the page using the new data. Jupyter only edits and saves the data; it does not build the website. The `_data` folder name is required by the website builder.
 
 ## Purpose and sources
-
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This guide is for Berkeley students who want to find useful campus and
+community places and services. I improved the Morrison Library entry and
+added Berkeley Public Library as a new resource. I used the official
+Berkeley Public Library website as the source:
+https://www.berkeleypubliclibrary.org/
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+I checked that the CSV contains nine resources, including the original
+eight entries and the new Berkeley Public Library entry. I checked that
+the updated Morrison Library access note appears on the website. I also
+checked that the official resource links open correctly.
